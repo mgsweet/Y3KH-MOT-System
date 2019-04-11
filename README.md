@@ -1,2 +1,2 @@
-# YOLOv3-Based-MOT
-Multiple object tracking (MOT) algorithm implemented in Python, based on YOLOv3
+# Y3KH-MOT-System
+Multiple object tracking (MOT) system implemented in Python, based on YOLOv3, Kalman Filter and Hungarian algorithm.
