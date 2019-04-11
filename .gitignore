@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.mp4
+*.avi
+*.weights
+*.h5
+
+__pycache__/
+dataset/
